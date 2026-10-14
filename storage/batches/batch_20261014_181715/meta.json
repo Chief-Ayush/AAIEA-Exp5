@@ -1,0 +1,36 @@
+{
+ "name": "batch_20261014_181715",
+ "created": "2026-10-14T18:17:15",
+ "label": "Mixed requests with BrandOutlet down",
+ "source": "Paste requests",
+ "requests": 8,
+ "execution": "parallel",
+ "approval": "auto",
+ "validation": "checkpoint",
+ "fault": "BrandOutlet permanently down",
+ "summaries": {
+  "parallel": {
+   "queries": 8,
+   "answered_pct": 0.0,
+   "handled_cleanly_pct": 100.0,
+   "status_counts": {
+    "PENDING_HUMAN_REVIEW": 4,
+    "NO_MATCH": 2,
+    "BLOCKED": 1,
+    "NEEDS_CLARIFICATION": 1
+   },
+   "validation_pass_pct": 100.0,
+   "escalation_rate_pct": 50.0,
+   "avg_time_s": 0.201,
+   "p95_time_s": 0.392,
+   "avg_tool_calls": 11.8,
+   "avg_retries": 0.0,
+   "avg_cost_units": 30.5,
+   "total_time_s": 1.61,
+   "filter_precision_pct": 100.0,
+   "filter_recall_pct": 97.2,
+   "constraint_satisfaction_pct": 100.0,
+   "ndcg5": 0.927
+  }
+ }
+}

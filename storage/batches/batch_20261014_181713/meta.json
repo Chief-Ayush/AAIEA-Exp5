@@ -1,0 +1,69 @@
+{
+ "name": "batch_20261014_181713",
+ "created": "2026-10-14T18:17:13",
+ "label": "Labelled benchmark - sequential vs parallel",
+ "source": "Labelled benchmark (69)",
+ "requests": 69,
+ "execution": "both (measure speed-up)",
+ "approval": "auto",
+ "validation": "checkpoint",
+ "fault": "None",
+ "summaries": {
+  "sequential": {
+   "queries": 69,
+   "answered_pct": 76.8,
+   "handled_cleanly_pct": 100.0,
+   "status_counts": {
+    "RECOMMENDED": 53,
+    "PENDING_HUMAN_REVIEW": 6,
+    "NO_MATCH": 4,
+    "NEEDS_CLARIFICATION": 4,
+    "INVALID": 1,
+    "BLOCKED": 1
+   },
+   "validation_pass_pct": 93.2,
+   "escalation_rate_pct": 8.7,
+   "avg_time_s": 0.468,
+   "p95_time_s": 0.607,
+   "avg_tool_calls": 15.9,
+   "avg_retries": 0.0,
+   "avg_cost_units": 40.4,
+   "total_time_s": 32.27,
+   "filter_precision_pct": 98.7,
+   "filter_recall_pct": 99.2,
+   "constraint_satisfaction_pct": 100.0,
+   "ndcg5": 0.91,
+   "expected_outcome_match_pct": 97.1,
+   "extraction_exact_match_pct": 95.3,
+   "extraction_field_accuracy_pct": 98.3
+  },
+  "parallel": {
+   "queries": 69,
+   "answered_pct": 76.8,
+   "handled_cleanly_pct": 100.0,
+   "status_counts": {
+    "RECOMMENDED": 53,
+    "PENDING_HUMAN_REVIEW": 6,
+    "NO_MATCH": 4,
+    "NEEDS_CLARIFICATION": 4,
+    "INVALID": 1,
+    "BLOCKED": 1
+   },
+   "validation_pass_pct": 93.2,
+   "escalation_rate_pct": 8.7,
+   "avg_time_s": 0.282,
+   "p95_time_s": 0.396,
+   "avg_tool_calls": 15.9,
+   "avg_retries": 0.0,
+   "avg_cost_units": 42.2,
+   "total_time_s": 19.45,
+   "filter_precision_pct": 98.7,
+   "filter_recall_pct": 99.2,
+   "constraint_satisfaction_pct": 100.0,
+   "ndcg5": 0.91,
+   "expected_outcome_match_pct": 97.1,
+   "extraction_exact_match_pct": 95.3,
+   "extraction_field_accuracy_pct": 98.3
+  }
+ }
+}

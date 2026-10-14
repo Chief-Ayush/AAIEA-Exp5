@@ -1,0 +1,86 @@
+product_id,product_name,category,brand,price,rating,reviews,ram_gb,storage_gb,battery_hours,screen_inches,weight_kg,warranty_months,availability,features,source,source_trust
+P001,TechPro Laptop X1,Laptop,TechPro,64999,4.8,1025,16,512,9.0,14.0,1.4,12,Available,SSD/Backlit Keyboard/WiFi 6/Fingerprint,BrandOutlet,0.84
+P002,MegaBook Pro 15,Laptop,MegaBook,68999,,1597,16,1024,11.0,15.6,1.7,12,Available,SSD/Backlit Keyboard/WiFi 6/Fingerprint,BrandOutlet,0.84
+P003,UltraTech Air 14,Laptop,UltraTech,60389,4.4,1246,16,512,8.0,14.0,1.3,12,Available,SSD/WiFi 6,BrandOutlet,0.84
+P005,BudgetBook 14,Laptop,BudgetBook,45269,,618,8,512,7.0,14.0,1.6,12,Available,SSD/WiFi 5,BrandOutlet,0.84
+P008,TabMaster Plus,Tablet,TabMaster,24999,4.5,1635,8,256,12.0,11.0,0.5,12,Available,2K Display/5G/Fast Charging,BrandOutlet,0.84
+P010,SoundMax Wireless,Headphones,SoundMax,5979,4.2,2514,0,0,25.0,0.0,0.25,12,Available,ANC/Bluetooth/Fast Charging,BrandOutlet,0.84
+P011,NovaCore Edge 60,Laptop,NovaCore,59929,4.5,127,8,512,10.7,16.0,1.62,12,Available,SSD/WiFi 6/Numpad/Backlit Keyboard/Dedicated GPU/Touchscreen,BrandOutlet,0.84
+P012,Orbitron Pro 55,Laptop,Orbitron,54539,4.5,139,16,256,6.0,15.6,1.25,12,Available,SSD/Fingerprint/Backlit Keyboard/OLED/Numpad,BrandOutlet,0.84
+P013,CoreEdge Pro 55,Laptop,CoreEdge,75999,3.8,2548,32,512,9.6,14.0,1.95,12,Available,SSD/Numpad/Fingerprint/OLED/WiFi 6/Dedicated GPU,BrandOutlet,0.84
+P017,AeroBook Air 40,Laptop,AeroBook,55999,4.3,3602,16,1024,13.7,14.0,1.7,12,Available,SSD/Fingerprint/Backlit Keyboard/WiFi 6,BrandOutlet,0.84
+P019,Zephyra Max 30,Laptop,Zephyra,43999,5.0,159,8,512,7.4,16.0,1.79,12,Available,SSD/WiFi 6/Fingerprint,BrandOutlet,0.84
+P020,UltraTech Studio 70,Laptop,UltraTech,61999,4.6,4820,32,512,10.2,14.0,1.18,12,Available,SSD/Numpad/Fingerprint/Backlit Keyboard/WiFi 6/Thunderbolt,BrandOutlet,0.84
+P023,TechPro Edge 40,Laptop,TechPro,52645,4.5,541,8,2048,7.4,14.0,1.52,12,Available,SSD/WiFi 6/Numpad/Backlit Keyboard/OLED,BrandOutlet,0.84
+P025,Vertex Lite 70,Laptop,Vertex,53999,4.3,2878,8,1024,3.8,14.0,1.66,12,Available,SSD/Thunderbolt/WiFi 6/Dedicated GPU/Numpad/OLED,BrandOutlet,0.84
+P027,CoreEdge Lite 10,Laptop,CoreEdge,61999,4.3,2483,16,512,4.0,15.6,1.91,12,Available,SSD/Fingerprint/WiFi 6/Touchscreen/Dedicated GPU,BrandOutlet,0.84
+P028,NovaCore Pro 40,Laptop,NovaCore,79999,4.2,231,32,1024,13.3,15.6,1.17,12,Available,SSD/Backlit Keyboard/OLED/Numpad,BrandOutlet,0.84
+P030,MegaBook Gaming 40,Laptop,MegaBook,100999,4.7,200,32,512,9.2,15.6,2.1,12,Available,SSD/Fingerprint/Numpad/WiFi 6/Touchscreen/Dedicated GPU,BrandOutlet,0.84
+P032,Lumina Flex 100,Laptop,Lumina,44999,4.4,3878,16,512,6.6,15.6,1.74,12,Available,SSD/Fingerprint,BrandOutlet,0.84
+P034,MegaBook Flex 10,Laptop,MegaBook,48999,4.4,491,16,256,6.2,15.6,1.7,12,Available,SSD/Numpad/WiFi 6/Backlit Keyboard/Thunderbolt,BrandOutlet,0.84
+P035,UltraTech Lite 40,Laptop,UltraTech,36999,4.4,130,8,512,13.1,16.0,1.3,12,Available,SSD/Backlit Keyboard/Numpad/OLED,BrandOutlet,0.84
+P036,PowerMax Gaming 20,Laptop,PowerMax,57119,4.7,428,16,256,9.8,16.0,1.45,12,Available,SSD/Touchscreen/WiFi 6/Fingerprint/OLED,BrandOutlet,0.84
+P040,TechPro Lite 12,Laptop,TechPro,39999,4.6,336,8,1024,9.3,14.0,1.42,12,Limited Stock,SSD/Backlit Keyboard/Touchscreen/Numpad,BrandOutlet,0.84
+P041,Vertex Air 55,Laptop,Vertex,57999,4.3,315,32,512,14.0,14.0,1.26,12,Limited Stock,SSD/Numpad/OLED/Touchscreen/Backlit Keyboard/Thunderbolt,BrandOutlet,0.84
+P042,Orbitron Studio 40,Laptop,Orbitron,82999,4.8,690,32,512,8.8,13.3,1.56,12,Available,SSD/Thunderbolt/Backlit Keyboard/WiFi 6/Touchscreen,BrandOutlet,0.84
+P045,NovaCore Gaming 30,Laptop,NovaCore,48999,4.0,190,16,512,5.5,13.3,1.63,12,Available,SSD/Backlit Keyboard/Thunderbolt/Fingerprint,BrandOutlet,0.84
+P046,CoreEdge Air 100,Laptop,CoreEdge,30748,3.9,248,8,512,14.0,15.6,1.3,24,Available,SSD/OLED/Fingerprint/WiFi 6,BrandOutlet,0.84
+P048,Lavo Pro 15,Smartphone,Lavo,13999,3.9,1093,8,128,29.0,6.3,0.23,24,Available,AMOLED/Water Resistant/120Hz Display/NFC/5G,BrandOutlet,0.84
+P050,Lavo Edge 16,Smartphone,Lavo,21849,3.7,2070,12,256,20.1,6.3,0.22,24,Available,AMOLED/Fast Charging/Water Resistant,BrandOutlet,0.84
+P052,PhoneMax Max 10,Smartphone,PhoneMax,19629,3.9,5455,6,128,33.5,6.2,0.18,12,Available,5G/Water Resistant,BrandOutlet,0.84
+P054,Zenith X 16,Smartphone,Zenith,25999,4.4,4583,8,128,27.2,6.9,0.22,24,Limited Stock,5G/Water Resistant/AMOLED/Wireless Charging,BrandOutlet,0.84
+P056,Quanta Edge 10,Smartphone,Quanta,20999,4.0,266,6,256,29.4,6.3,0.19,12,Available,5G/Dual SIM/AMOLED/Wireless Charging/Water Resistant,BrandOutlet,0.84
+P057,SmartTech Z 16,Smartphone,SmartTech,21999,4.4,182,6,256,28.5,6.5,0.19,24,Available,120Hz Display/AMOLED/NFC,BrandOutlet,0.84
+P062,Pixelio Edge 12,Smartphone,Pixelio,32999,4.1,577,16,128,29.9,6.5,0.21,12,Available,Water Resistant/Dual SIM,BrandOutlet,0.84
+P063,PhoneMax Pro 100,Smartphone,PhoneMax,25999,4.4,803,8,256,16.8,6.2,0.2,12,Available,Fast Charging/Wireless Charging/NFC,BrandOutlet,0.84
+P068,PhoneMax Lite 60,Smartphone,PhoneMax,15659,4.0,1998,6,64,25.4,6.7,0.17,24,Available,Fast Charging/Wireless Charging,BrandOutlet,0.84
+P069,Zenith Edge 14,Smartphone,Zenith,21301,,3126,8,64,25.8,6.3,0.19,12,Available,Wireless Charging/Water Resistant/120Hz Display/NFC,BrandOutlet,0.84
+P072,Nexon Z 50,Smartphone,Nexon,28999,4.4,4184,12,128,26.7,6.6,0.18,12,Available,NFC/Fast Charging/5G,BrandOutlet,0.84
+P073,SmartTech Pro 40,Smartphone,SmartTech,26999,4.4,315,12,128,26.4,6.2,0.2,24,Available,Dual SIM/Water Resistant/AMOLED/Wireless Charging/NFC,BrandOutlet,0.84
+P074,Nexon Note 50,Smartphone,Nexon,15999,4.4,197,4,64,24.3,6.6,0.18,12,Available,NFC/5G/Water Resistant/AMOLED/Fast Charging,BrandOutlet,0.84
+P077,Zenith Neo 60,Smartphone,Zenith,41999,4.9,285,16,256,24.5,6.2,0.23,24,Available,120Hz Display/Fast Charging/5G,BrandOutlet,0.84
+P079,Pixelio Prime 14,Smartphone,Pixelio,17912,4.3,3346,8,64,18.4,6.5,0.21,12,Available,Dual SIM/120Hz Display/Water Resistant/Fast Charging,BrandOutlet,0.84
+P080,Zenith Pro 15,Smartphone,Zenith,46999,4.5,130,12,512,24.7,6.4,0.22,12,Available,120Hz Display/Fast Charging,BrandOutlet,0.84
+P083,SmartTech Neo 16,Smartphone,SmartTech,15999,4.4,117,4,128,32.6,6.8,0.23,12,Limited Stock,Dual SIM/Fast Charging/120Hz Display/AMOLED/5G,BrandOutlet,0.84
+P086,TabMaster Air 15,Tablet,TabMaster,15999,4.1,3781,4,128,16.7,8.7,0.56,12,Available,Dual Speakers/AMOLED,BrandOutlet,0.84
+P089,AeroBook Plus 20,Tablet,AeroBook,38999,4.0,3689,4,512,11.4,12.4,0.6,12,Available,Stylus Support/2K Display/Keyboard Support,BrandOutlet,0.84
+P090,Nexon Lite 100,Tablet,Nexon,29999,4.1,202,4,256,19.6,10.1,0.51,12,Available,AMOLED/5G/Stylus Support,BrandOutlet,0.84
+P091,AeroBook Pro 16,Tablet,AeroBook,29999,4.8,3983,12,64,12.9,10.9,0.44,12,Available,Stylus Support/AMOLED,BrandOutlet,0.84
+P092,Nexon Note 40,Tablet,Nexon,43599,4.2,2589,12,512,13.2,10.1,0.61,12,Available,Fast Charging/Keyboard Support,BrandOutlet,0.84
+P093,AeroBook Max 14,Tablet,AeroBook,33179,,284,12,256,14.1,10.1,0.54,12,Available,Stylus Support/AMOLED/5G/Keyboard Support,BrandOutlet,0.84
+P095,AeroBook Lite 10,Tablet,AeroBook,30999,4.9,227,8,256,11.2,10.9,0.52,12,Available,Stylus Support/2K Display/AMOLED/Dual Speakers/5G,BrandOutlet,0.84
+P097,Nexon Mini 60,Tablet,Nexon,34239,4.2,2255,8,256,15.9,10.9,0.33,24,Available,Fast Charging/Stylus Support/AMOLED,BrandOutlet,0.84
+P098,AeroBook Mini 15,Tablet,AeroBook,26239,4.8,217,6,256,13.3,8.7,0.47,24,Available,Keyboard Support/Fast Charging/2K Display,BrandOutlet,0.84
+P099,AeroBook Max 55,Tablet,AeroBook,36999,4.5,708,8,512,16.0,8.7,0.59,12,Available,5G/AMOLED/Dual Speakers/Stylus Support/Fast Charging,BrandOutlet,0.84
+P100,Lumina Note 30,Tablet,Lumina,23999,4.6,1560,4,256,13.2,10.9,0.32,12,Out of Stock,2K Display/5G/Fast Charging/Stylus Support,BrandOutlet,0.84
+P101,Nexon Lite 16,Tablet,Nexon,25999,4.3,313,6,128,19.2,10.1,0.32,24,Available,Dual Speakers/5G/Fast Charging,BrandOutlet,0.84
+P102,Quanta Lite 40,Tablet,Quanta,22999,3.8,1795,6,256,17.6,10.9,0.38,12,Available,2K Display/AMOLED/Fast Charging/Keyboard Support/Dual Speakers,BrandOutlet,0.84
+P103,Nexon Max 10,Tablet,Nexon,30999,3.9,174,12,64,10.7,10.9,0.41,12,Available,Dual Speakers/5G/Keyboard Support/Fast Charging,BrandOutlet,0.84
+P104,SlateOne Max 50,Tablet,SlateOne,23999,4.2,2686,4,256,15.7,10.9,0.5,12,Available,Stylus Support/Keyboard Support/5G,BrandOutlet,0.84
+P107,Quanta Wireless 50,Headphones,Quanta,3299,4.7,535,0,0,33.6,0.0,0.3,12,Available,ANC/Multipoint,BrandOutlet,0.84
+P108,Vibe Bass 16,Headphones,Vibe,3099,4.1,152,0,0,36.3,0.0,0.27,12,Available,Spatial Audio/Fast Charging/Multipoint/Bluetooth,BrandOutlet,0.84
+P110,Quanta Studio 40,Headphones,Quanta,4759,4.6,4173,0,0,46.8,0.0,0.08,12,Available,Fast Charging/Spatial Audio,BrandOutlet,0.84
+P111,UltraSound Buds 12,Headphones,UltraSound,11999,4.4,1093,0,0,50.3,0.0,0.28,24,Available,Bluetooth/ANC,BrandOutlet,0.84
+P112,Auralis Elite 10,Headphones,Auralis,7699,4.5,2773,0,0,54.0,0.0,0.16,12,Available,Multipoint/Water Resistant/Spatial Audio/Wireless Charging,BrandOutlet,0.84
+P113,Zenith Air 12,Headphones,Zenith,5659,4.3,1148,0,0,40.1,0.0,0.19,24,Available,Wireless Charging/Fast Charging,BrandOutlet,0.84
+P114,UltraSound Wireless 12,Headphones,UltraSound,7199,4.3,1523,0,0,45.3,0.0,0.2,12,Available,Bluetooth/Water Resistant/ANC,BrandOutlet,0.84
+P117,UltraSound Air 30,Headphones,UltraSound,9999,,264,0,0,28.5,0.0,0.29,24,Available,Spatial Audio/Water Resistant,BrandOutlet,0.84
+P118,Vibe Bass 15,Headphones,Vibe,6799,4.8,1975,0,0,57.5,0.0,0.25,12,Available,Wireless Charging/Multipoint/ANC/Bluetooth,BrandOutlet,0.84
+P119,Zenith Pro 16,Headphones,Zenith,6799,4.8,285,0,0,31.8,0.0,0.14,12,Available,Spatial Audio/Wireless Charging,BrandOutlet,0.84
+P121,UltraSound Sport 100,Headphones,UltraSound,7599,3.7,952,0,0,45.2,0.0,0.17,12,Available,Wireless Charging/Fast Charging,BrandOutlet,0.84
+P122,Quanta Elite 55,Headphones,Quanta,7699,3.8,1162,0,0,49.5,0.0,0.11,12,Available,Bluetooth/Wireless Charging/ANC,BrandOutlet,0.84
+P123,Quanta Elite 16,Headphones,Quanta,4499,4.3,5484,0,0,32.5,0.0,0.18,12,Available,Spatial Audio/ANC/Wireless Charging/Fast Charging/Water Resistant,BrandOutlet,0.84
+P124,UltraSound Beat 10,Headphones,UltraSound,8504,,418,0,0,18.3,0.0,0.1,12,Available,Fast Charging/Multipoint,BrandOutlet,0.84
+P129,SoundMax Air 12,Headphones,SoundMax,6299,4.3,6774,0,0,57.0,0.0,0.27,12,Available,Wireless Charging/ANC/Water Resistant/Fast Charging/Bluetooth,BrandOutlet,0.84
+P130,Quanta Beat 55,Headphones,Quanta,2499,3.7,763,0,0,20.6,0.0,0.11,12,Available,Spatial Audio/Fast Charging/Water Resistant,BrandOutlet,0.84
+P132,FitPulse Ultra 100,Smartwatch,FitPulse,4587,4.2,360,0,0,84.4,1.4,0.04,12,Available,GPS/Water Resistant/SpO2,BrandOutlet,0.84
+P133,Vibe Active 14,Smartwatch,Vibe,4999,4.0,558,0,0,67.8,1.4,0.03,12,Available,NFC/AMOLED,BrandOutlet,0.84
+P135,FitPulse Active 60,Smartwatch,FitPulse,9999,4.0,986,0,0,227.8,1.2,0.05,24,Available,SpO2/Fast Charging/NFC/GPS,BrandOutlet,0.84
+P142,AuraFit Sport 60,Smartwatch,AuraFit,4399,4.2,352,0,0,128.4,1.6,0.05,12,Limited Stock,NFC/Fast Charging/GPS/Heart Rate/Water Resistant,BrandOutlet,0.84
+P143,Vibe Fit 10,Smartwatch,Vibe,2029,4.1,563,0,0,39.7,1.8,0.03,12,Available,SpO2/GPS,BrandOutlet,0.84
+P144,Vibe Fit 70,Smartwatch,Vibe,4999,3.8,179,0,0,278.7,1.9,0.07,12,Available,SpO2/NFC/Heart Rate,BrandOutlet,0.84
+P145,Vibe Watch 15,Smartwatch,Vibe,3499,3.9,325,0,0,152.6,1.4,0.06,12,Available,NFC/Heart Rate/SpO2/Fast Charging,BrandOutlet,0.84
+P148,AuraFit Ultra 30,Smartwatch,AuraFit,8189,4.0,1998,0,0,212.3,1.4,0.05,12,Available,SpO2/Water Resistant/AMOLED/NFC/GPS,BrandOutlet,0.84
+P149,Vibe Lite 10,Smartwatch,Vibe,7699,3.8,557,0,0,259.5,1.3,0.04,24,Available,Water Resistant/NFC/SpO2/Heart Rate/AMOLED,BrandOutlet,0.84
+P151,Zenith Watch 55,Smartwatch,Zenith,10999,4.6,1081,0,0,288.1,1.8,0.03,12,Available,Heart Rate/Fast Charging/NFC/Water Resistant,BrandOutlet,0.84
+P153,Nexon Pro 50,Smartwatch,Nexon,12999,4.6,1771,0,0,294.2,1.4,0.06,12,Available,Water Resistant/SpO2/Heart Rate/NFC,BrandOutlet,0.84

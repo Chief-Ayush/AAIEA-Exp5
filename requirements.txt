@@ -1,0 +1,12 @@
+langgraph>=1.0
+langchain-core>=1.0
+streamlit>=1.50
+altair>=5
+pandas>=2.0
+numpy>=1.26
+pydantic>=2.5
+pytest>=8
+# optional LLM planner (set CARTIQ_LLM=anthropic:<model> | openai:<model> | google:<model>)
+# langchain-anthropic
+# langchain-openai
+# langchain-google-genai
